@@ -1,0 +1,85 @@
+.d a{
+	text-decoration: none;
+	color: #99CCCC;
+	vertical-align: top;
+}
+.d>a:hover{
+	color: #99CCCC;
+}
+
+#zoom_01{
+	border:1px solid #e7e7e7;
+	padding: 5px;
+    max-width: 348px;
+    width:100%;
+}
+#gal1{
+	margin-top: 45px;
+	padding: 10px;
+}
+.c2{
+	padding: 20px;
+}
+#hv{
+	width: 20px;
+	height: 20px;
+	background: gray;	
+}
+.menuinfo{
+	margin-top:20px;
+}
+.tbinfo{
+	width: 100%;
+	background: #fafafa;
+	border-top: 4px solid #f2f2f2; 	
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+tbody{
+	padding: 
+	display: table-row-group;
+	vertical-align: middle;
+	border-color: inherit;
+}
+tr{
+	display: table-row;
+	vertical-align: inherit;
+	border-color: inherit;
+}
+.bold{
+	padding: 0 15px;
+	line-height: 24px;
+	border: 1px solid #f3f3f3;
+}
+.line{
+	padding: 0 15px;
+	line-height: 24px;
+	border: 1px solid #fff;	
+}
+td{
+	padding-left:10px;
+}
+.hinhzoom{
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
